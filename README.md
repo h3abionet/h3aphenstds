@@ -4,13 +4,13 @@
 
 You can find the modules developed or in-development illustrated in **Figure 1** below (.csv data dictionaries; .xml redcap project templates; .pdf case report forms (CRFs) and .pdf module guidelines) under the corresponding folders.
 
-![image](https://www.h3abionet.org/images/DataAndStandards/DataStandards/phenotype_modules.png)
+![Fig1](https://www.h3abionet.org/images/DataAndStandards/DataStandards/phenotype_modules.png)
 
 **Figure 1.** Modules developed by the H3ABioNet Phenotype Standards Project.
 
 The developed sample CRFs can be used on the ground for paper-based data collection from participants, alongside the associated guidelines, whilst the XML templates imported directly into REDCap will set up a new project with the module compiled and ready for use as a database for direct data capture or use in conjunction with the paper CRFs. The data dictionaries provide the necessary metadata for all the data elements/variables and can be imported into REDCap or replicated in your desired electronic data management platform. All the components of a given module are illustrated in **Figure 2** below.
 
-![](RackMultipart20201210-4-191m27h_html_84a919b30751cc90.png)
+![Fig2](https://www.h3abionet.org/images/DataAndStandards/DataStandards/phenotype_modules2.png)
 
 **Figure 2.** Module components and use.
 
