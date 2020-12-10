@@ -4,7 +4,7 @@
 
 You can find the modules developed or in-development illustrated in **Figure 1** below (.csv data dictionaries; .xml redcap project templates; .pdf case report forms (CRFs) and .pdf module guidelines) under the corresponding folders.
 
-![image](/home/lyndon/Desktop/phenotype_modules.png)
+![image](../phenotype_modules.png)
 
 **Figure 1.** Modules developed by the H3ABioNet Phenotype Standards Project.
 
