@@ -6,7 +6,7 @@ The COVID-19 module can be used to collect essential phenotypes associated with 
 
 Phenotype protocols contained in the module are illustrated in the figure below:
 
-![](RackMultipart20201210-4-14g98wn_html_f481787887c74b1e.png)
+![phen](covid_phenotypes.png)
 
 ## Administration
 
