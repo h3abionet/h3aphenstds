@@ -1,4 +1,4 @@
-**Welcome to the H3ABioNet/H3Africa Phenotype Standards Project**
+##Welcome to the H3ABioNet/H3Africa Phenotype Standards Project
 
 **Our work**. In collaboration with the H3Africa Phenotype Harmonisation Working Group, we are working to establish common phenotype-specific data collection modules that can be implemented across the African continent (and beyond). These modules incorporate both existing and newly developed phenotype standards, to promote harmonised collection of phenotype data for genomic research. The benefits of using these modules are multi-fold; (1) The modules are all aligned with existing, global data collection standards, (2) the modules are specifically adapted for biomedical phenotype data collection in Africa, and (3) the modules are highly interoperable, with variables mapped to existing and maintained ontologies.
 
