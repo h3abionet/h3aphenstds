@@ -30,7 +30,7 @@ Read up on the history and methodology of our project in our full documentation 
 
 1. In acknowledgements section:
 
-&quot;We acknowledge the use of data collection modules (DOI) from H3ABioNet/H3Africa which can be found, including associated references, at [https://github.com/h3abionet](https://github.com/h3abionet), funded by the H3Africa NIH grant U24HG006941&quot;.
+&quot;We acknowledge the use of data collection modules (DOI) from H3ABioNet/H3Africa which can be found, including associated references, at [https://github.com/h3abionet](https://github.com/h3abionet), funded by the H3Africa NIH grant U24HG006941.&quot;
 
 **Contributors**
 
