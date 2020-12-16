@@ -2,7 +2,7 @@
 
 **Our work**. In collaboration with the H3Africa Phenotype Harmonisation Working Group, we are working to establish common phenotype-specific data collection modules that can be implemented across the African continent (and beyond). These modules incorporate both existing and newly developed phenotype standards, to promote harmonised collection of phenotype data for genomic research. The benefits of using these modules are multi-fold; (1) The modules are all aligned with existing, global data collection standards, (2) the modules are specifically adapted for biomedical phenotype data collection in Africa, and (3) the modules are highly interoperable, with variables mapped to existing and maintained ontologies.
 
-You can find the modules developed or in-development illustrated in **Figure 1** below (.csv data dictionaries; .xml redcap project templates; .pdf case report forms (CRFs) and .pdf module guidelines) under the corresponding folders.
+You can find the modules developed or in-development illustrated in **Figure 1** below (.xlsx data dictionaries; .xml redcap project templates; .pdf case report forms (CRFs) and .pdf module guidelines) under the corresponding folders.
 
 ![Fig1](https://www.h3abionet.org/images/DataAndStandards/DataStandards/phenotype_modules.png)
 
@@ -10,13 +10,13 @@ You can find the modules developed or in-development illustrated in **Figure 1**
 
 The developed sample CRFs can be used on the ground for paper-based data collection from participants, alongside the associated guidelines, whilst the XML templates imported directly into REDCap will set up a new project with the module compiled and ready for use as a database for direct data capture or use in conjunction with the paper CRFs. The data dictionaries provide the necessary metadata for all the data elements/variables and can be imported into REDCap or replicated in your desired electronic data management platform. All the components of a given module are illustrated in **Figure 2** below.
 
-![Fig2](https://www.h3abionet.org/images/DataAndStandards/DataStandards/phenotype_modules2.png)
+![Fig2](https://h3abionet.org/images/DataAndStandards/DataStandards/figure-2.png)
 
 **Figure 2.** Module components and use.
 
 **Documentation**
 
-Read up on the history and methodology of our project in our full documentation page, [here](https://www.h3abionet.org/images/DataAndStandards/DataStandards/h3abionetphenstddoc_v1.01.pdf).
+Read up on the history and methodology of our project in our full documentation page, [here](https://h3abionet.org/images/DataAndStandards/DataStandards/h3abionetphenstddoc_v1.1.pdf).
 
 **Want to work with us? How to get involved**. We encourage participation from the community! If you have a bug, suggestion or idea, browse the open issues before opening a new one. Please use the GitHub issue tracker to submit any comments or suggestions. We value the continued maintenance and improvement of the developed packages, and appreciate your feedback.
 
