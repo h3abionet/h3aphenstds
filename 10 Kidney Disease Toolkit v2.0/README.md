@@ -17,6 +17,6 @@ The phenotype protocols contained in the toolkit range from Interviewer/Self-adm
 The toolkit consists of both existing and novel data collection standards, and was based on several existing resources. These resources are listed below:
 
 1. Kumuthini J, van Woerden C, Mallett A, et al. Proposed minimum information guideline for kidney disease—research and clinical data reporting: a cross-sectional study, BMJ Open 2019;9:e029539.  DOI: 10.1136/bmjopen-2019-029539
-2. Instrument - Personal History of Kidney Failure (www.phenxtoolkit.org/protocols/view/140601) 
-3. Instrument - Complete Blood Count (CBC) (www.phenxtoolkit.org/protocols/view/220501)  
+2. Protocol - Personal History of Kidney Failure (www.phenxtoolkit.org/protocols/view/140601) 
+3. Protocol - Complete Blood Count (CBC) (www.phenxtoolkit.org/protocols/view/220501)  
 4. Sickle In Africa Core Data Elements (www.sickleinafrica.org/SIA_data_elements)

@@ -18,5 +18,5 @@ The toolkit consists of both existing and novel data collection standards, and w
 
 1. H3Africa DDD-Africa Case Report Forms
 2. H3Africa Rare Diseases WG Case Report Forms
-3. Instrument - Epilepsy Screener - Adult (www.phenxtoolkit.org/protocols/view/130401)
-4. Instrument - Epilepsy Screener - Child/Proxy (www.phenxtoolkit.org/protocols/view/130402)
+3. Protocol - Epilepsy Screener - Adult (www.phenxtoolkit.org/protocols/view/130401)
+4. Protocol - Epilepsy Screener - Child/Proxy (www.phenxtoolkit.org/protocols/view/130402)

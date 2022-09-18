@@ -17,9 +17,7 @@ The phenotype protocols contained in the toolkit are Interviewer/Self-administer
 The toolkit consists of both existing and novel data collection standards, and was based on several existing resources. These resources are listed below:
 
 1. WHO Global Physical Activity Questionnaire (www.who.int/ncds/surveillance/steps/GPAQ/en/) 
-2. Instrument - Dietary Intake (www.phenxtoolkit.org/protocols/view/231201) 
-3. Instrument - Dietary Supplements Use (www.phenxtoolkit.org/protocols/view/50501) 
-4. Instrument - Caffeine Intake (www.phenxtoolkit.org/protocols/view/50301) 
+2. Protocol - Dietary Intake (www.phenxtoolkit.org/protocols/view/231201) 
+3. Protocol - Dietary Supplements Use (www.phenxtoolkit.org/protocols/view/50501) 
+4. Protocol - Caffeine Intake (www.phenxtoolkit.org/protocols/view/50301) 
 5. Pittsburgh Sleep Quality Index (www.sleep.pitt.edu/instruments/) 
-6. Instrument - Sexual Risk Behavior - Male (www.phenxtoolkit.org/protocols/view/101701)  
-7. Instrument - Sexual Risk Behavior - Female (www.phenxtoolkit.org/protocols/view/101702) 

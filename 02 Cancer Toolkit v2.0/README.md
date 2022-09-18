@@ -16,6 +16,6 @@ The phenotype protocols contained in the toolkit are Interviewer/Self-administer
 
 The toolkit consists of both existing and novel data collection standards, and was based on several existing resources. These resources are listed below:
 
-1. Instrument - Cancer: Personal and Family History (www.phenxtoolkit.org/protocols/view/70601)  
-2. Instrument - Cancer Treatments (www.phenxtoolkit.org/protocols/view/71101)
-3. Instrument - Cancer Screenings (www.phenxtoolkit.org/protocols/view/70901) 
+1. Protocol - Cancer: Personal and Family History (www.phenxtoolkit.org/protocols/view/70601)  
+2. Protocol - Cancer Treatments (www.phenxtoolkit.org/protocols/view/71101)
+3. Protocol - Cancer Screenings (www.phenxtoolkit.org/protocols/view/70901) 

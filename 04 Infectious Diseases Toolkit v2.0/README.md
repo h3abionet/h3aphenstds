@@ -25,4 +25,6 @@ The toolkit consists of both existing and novel data collection standards, and w
 7. WHO Global COVID-19 Clinical Platform: Rapid core case report form
 8. Protocol - Complete Blood Count (CBC) (www.phenxtoolkit.org/protocols/view/220501) 
 9. Protocol - Liver Function - Assay (www.phenxtoolkit.org/protocols/view/190801) 
-10. HIV Cohorts Data Exchange Protocol (https://hicdep.org/)
+10. Protocol - Sexual Risk Behavior - Male (www.phenxtoolkit.org/protocols/view/101701)
+11. Protocol - Sexual Risk Behavior - Female (www.phenxtoolkit.org/protocols/view/101702)
+12. HIV Cohorts Data Exchange Protocol (https://hicdep.org/)
