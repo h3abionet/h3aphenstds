@@ -1,6 +1,6 @@
 ## Description
 
-The Stroke toolkit can be used to collect essential phenotypes associated with Stroke-related research, including: Stroke Characterisation; Stroke Verification; Primary Prevention and Secondary Prevention. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The Stroke toolkit can be used to collect essential phenotypes associated with Stroke-related research, including: Stroke Characterisation; Stroke Verification; Primary Prevention and Secondary Prevention. 
 
 ## Phenotypes
 

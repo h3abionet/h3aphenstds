@@ -1,6 +1,6 @@
 ## Description
 
-The Kidney Disease toolkit can be used to collect essential phenotypes associated with Kidney Disease-related research including personal History of Kidney Failure, Kidney Function Assay and Blood Cell Count. This document establishes guidelines (particularly applicable in Africa) on using the toolkit and collecting  detailed, relevant and harmonised phenotype and exposure data for research. 
+The Kidney Disease toolkit can be used to collect essential phenotypes associated with Kidney Disease-related research including personal History of Kidney Failure, Kidney Function Assay and Blood Cell Count. 
 
 ## Phenotypes
 

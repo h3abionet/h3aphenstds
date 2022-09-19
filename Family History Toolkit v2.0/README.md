@@ -1,6 +1,6 @@
 ## Description
 
-The FH toolkit can be used to collect essential information pertaining to the medical history of a research participant’s family. First, we define the types of relationships within the family, as we acknowledge that some family composition is not always biological. We then break down the various medical information we wish to glean into their various body systems, such as respiratory system, musculoskeletal system, nervous system etc. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The FH toolkit can be used to collect essential information pertaining to the medical history of a research participant’s family. First, we define the types of relationships within the family, as we acknowledge that some family composition is not always biological. We then break down the various medical information we wish to glean into their various body systems, such as respiratory system, musculoskeletal system, nervous system etc. 
 
 ## Phenotypes
 

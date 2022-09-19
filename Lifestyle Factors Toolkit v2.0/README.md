@@ -1,6 +1,6 @@
 ## Description
 
-The Lifestyle Factors toolkit can be used to collect essential phenotypes associated with Lifestyle Factors in biomedical research, including: Physical Activity, Diet, Sleep Habits and more. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The Lifestyle Factors toolkit can be used to collect essential phenotypes associated with Lifestyle Factors in biomedical research, including: Physical Activity, Diet, Sleep Habits and more. 
 
 ## Phenotypes
 

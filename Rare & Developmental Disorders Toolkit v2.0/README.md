@@ -1,6 +1,6 @@
 ## Description
 
-The Rare & Developmental (R&D) Disorder toolkit can be used to collect essential phenotypes associated with R&D related research, including: Birth History, Neurodevelopmental History, Epilepsy and System Anomalies. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The Rare & Developmental (R&D) Disorder toolkit can be used to collect essential phenotypes associated with R&D related research, including: Birth History, Neurodevelopmental History, Epilepsy and System Anomalies. 
 
 ## Phenotypes
 

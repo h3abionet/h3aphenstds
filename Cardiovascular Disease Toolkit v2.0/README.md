@@ -1,6 +1,6 @@
 ## Description
 
-The Cardiovascular Disease (CVD) toolkit can be used to collect essential phenotypes associated with CVD related research, including; Anthropometrics, CVD History (Angina, Heart Attack, Congestive Heart Failure, Thyroid Disease) and more.  This document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The Cardiovascular Disease (CVD) toolkit can be used to collect essential phenotypes associated with CVD related research, including; Anthropometrics, CVD History (Angina, Heart Attack, Congestive Heart Failure, Thyroid Disease) and more. 
 
 ## Phenotypes
 

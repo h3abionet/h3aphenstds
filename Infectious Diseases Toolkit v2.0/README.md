@@ -1,12 +1,12 @@
 ## Description
 
-The Infectious Disease toolkit can be used to collect essential phenotypes associated with Infectious Disease related research, including information related to Malaria, Trypanosomiasis / Sleeping Sickness, Tuberculosis (TB) and HIV. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The Infectious Disease toolkit can be used to collect essential phenotypes associated with Infectious Disease related research, including information related to Malaria, Trypanosomiasis / Sleeping Sickness, Tuberculosis (TB) and HIV.
 
 ## Phenotypes
 
 Phenotype protocols contained in the toolkit are illustrated in the figure below:
 
-![phen](infectious disease_phenotypes.png)
+![phen](infectious_disease_phenotypes.png)
 
 ## Administration
 

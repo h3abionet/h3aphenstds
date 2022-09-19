@@ -1,6 +1,6 @@
 ## Description
 
-The Cancer toolkit is an add-on toolkit, which can be used in conjunction with the H3Africa Core Phenotypes toolkit in order to collect essential phenotypes associated with Cancer-related research, including: Cancer Prognosis & Treatment History, Cancer Screenings and Cancer Family History. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonized phenotype and exposure data for research.
+The Cancer toolkit is an add-on toolkit, which can be used in conjunction with the H3Africa Core Phenotypes toolkit in order to collect essential phenotypes associated with Cancer-related research, including: Cancer Prognosis & Treatment History, Cancer Screenings and Cancer Family History. 
 
 ## Phenotypes
 

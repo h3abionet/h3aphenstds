@@ -1,6 +1,6 @@
 ## Description
 
-The Environmental Exposures toolkit can be used to collect information pertaining to: socio-economic status, occupational history, water resources and more. The following document establishes guidelines (particularly applicable in Africa) on how to use the toolkit and collect detailed, relevant and harmonised exposure data for research. 
+The Environmental Exposures toolkit can be used to collect information pertaining to: socio-economic status, occupational history, water resources and more. 
 
 ## Phenotypes
 

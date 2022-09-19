@@ -1,6 +1,6 @@
 ## Description
 
-The H3Africa core phenotypes can be used to collect essential phenotypes related to African health and biomedical research. These phenotypes were prioritised based on the overlap in phenotype data collection across multiple research projects being conducted across the African continent, in various disease fields. Phenotypes include information related to a participant’s demographics, anthropometrics, tobacco and alcohol use, and disease history. The following document establishes guidelines (particularly applicable in Africa) on how to use the Core Phenotypes to collect detailed, relevant and harmonized phenotype and exposure data for research. 
+The H3Africa core phenotypes can be used to collect essential phenotypes related to African health and biomedical research. These phenotypes were prioritised based on the overlap in phenotype data collection across multiple research projects being conducted across the African continent, in various disease fields. Phenotypes include information related to a participant’s demographics, anthropometrics, tobacco and alcohol use, and disease history. 
 
 ## Phenotypes
 
